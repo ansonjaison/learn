@@ -1,0 +1,35 @@
+# Shell Command Cheatsheet
+
+- pwd – Show the current working directory
+- cd – Change directory
+- cd .. – Move to the parent directory
+- ls – List files and directories
+- ls -a – List all files, including hidden ones (starting with `.`)
+- ls -l – List files in long format (with permissions, owner, size, etc.)
+- touch filename – Create a new empty file
+- rm filename – Delete a file
+- mkdir foldername – Create a new directory
+- rmdir foldername – Remove an empty directory
+- rm -r foldername – Delete a directory and its contents recursively
+- cp source destination – Copy file from source to destination
+- cp -r source_folder destination_folder – Copy a folder and its contents recursively
+- mv source destination – Move or rename a file or directory
+- cat filename – Display the content of a file
+- head filename – Show the first 10 lines of a file
+- tail filename – Show the last 10 lines of a file
+- echo message – Print a message to the terminal
+- clear – Clear the terminal screen
+- chmod +x filename – Make a file executable
+- ./filename – Execute a file or script in the current directory
+- grep "text" filename – Search for “text” in a file
+- sudo command – Run a command as superuser (with admin privileges)
+- whoami – Show the current logged-in username
+- uname -a – Show detailed system information (kernel, architecture, etc.)
+- df -h – Display disk space usage in human-readable format
+- top – Display running processes (like Task Manager)
+- ps – Show currently active processes
+- kill PID – Terminate a process using its Process ID
+- history – Show command history
+- man command – Open the manual page for a command
+- whatis command – Brief description of what a command does
+- alias name='command' – Create a shortcut for a command (e.g., alias ll='ls -la')
