@@ -1,6 +1,6 @@
 # Code
 
-'''text
+```
 print("CLI Calculator Tool\nAvaliable Operations: +, -, *, /")
 while True:
     print("***********************************")
@@ -20,7 +20,7 @@ while True:
     if ch=='n':
         print("Exiting calculator!")
         break
-
+```
 # Output
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ad57de22-e35c-4958-8dcc-3c50fe3cadb7)
