@@ -1,6 +1,6 @@
 # Code
 
-'''
+```
 import subprocess
 with open("domains.txt") as file:
     domains = [line.strip() for line in file if line.strip()]
@@ -24,20 +24,20 @@ for domain in domains:
         print(f"Timeout: {domain} did not respond.")
     except Exception as e:
         print(f"Error: {e}")
-'''
+```
 
 # domains.txt file
 
-'''
+```
 github.com
 unknowx.awd
 discord.com
 youtube.com
-'''
+```
 
 # Output
 
-'''
+```
 anson@DESKTOP-P49CESA:~/learn/week1/code$ python3 ping.py
 
 Pinging github.com...
@@ -55,4 +55,4 @@ Pinging youtube.com...
 youtube.com is UP.
 PING youtube.com (142.250.66.14) 56(84) bytes of data.
 anson@DESKTOP-P49CESA:~/learn/week1/code$
-'''
+```
