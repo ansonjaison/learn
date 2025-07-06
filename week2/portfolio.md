@@ -96,7 +96,9 @@ export default function Home() {
 
 # Folder Organization
 
+![image](https://github.com/user-attachments/assets/b74631f3-eed4-4401-9441-a964dca42e69)
 
 
 # Preview
 
+![screencapture-localhost-3000-2025-07-06-11_07_06](https://github.com/user-attachments/assets/9133ba98-a101-4272-a4ea-13924654a9f7)
