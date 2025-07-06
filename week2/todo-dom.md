@@ -1,3 +1,5 @@
+# Code
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,3 +118,8 @@
 
 </body>
 </html>
+
+```
+
+# Preview
+
